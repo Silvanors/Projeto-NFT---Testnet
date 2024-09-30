@@ -7,6 +7,7 @@
 - Metamask (extenção para instalar no navegador);
 - Google Cloud Web3 <https://cloud.google.com/application/web3/faucet/ethereum/sepolia>;
 - Imagens de teste para criação do NFT;
+- Verificador de blocos <https://sepolia.etherscan.io/>;
   
 ## Etapas:
 - Configurar o gerenciador de carteira "Metamesk" com uma carteira na rede de teste;
