@@ -1,4 +1,4 @@
-# Projecto NFT na blockchain Testenet
+# Projeto NFT na blockchain Testenet
 
 - Não foi possível realizar o projeto utilizando o "Polygon" pela dificuldade de conseguir faucet. Por isso, utilizamos a rede de testes "Sepolia" com token "SepoliaETH".
 
