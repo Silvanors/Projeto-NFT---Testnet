@@ -38,6 +38,7 @@ https://testnets.opensea.io/collection/my-nft-collections-2
 https://testnets.opensea.io/0xA9155F5B6FC993A82346a8ff86EFEf513fc4c096
 
 - Carteira no "Metamesk":
+
 ![image](https://github.com/user-attachments/assets/6dc526cf-e2a3-4431-9b7f-cc1b9794f4ef)
 
 
